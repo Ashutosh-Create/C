@@ -1,0 +1,3 @@
+Scores
+
+Sum of exam scores is 0
